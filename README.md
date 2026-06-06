@@ -74,12 +74,6 @@ A web application focused on improving the accessibility, efficiency, and manage
 
 💡 Coordinator – Smart India Hackathon
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&layout=compact)
-
 ---
 ### 📫 Let's Connect
 
